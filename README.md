@@ -1,8 +1,8 @@
 # Go AI-Bot
 
 ## Demo
-<iframe src="https://giphy.com/embed/RX2fv9mvzsVOVXaVGw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
+![AI-bot](https://user-images.githubusercontent.com/25595072/223883726-b23bf172-e6a6-4a7f-a441-95c0e7025537.gif)
 
 ### installation
 - git clone repo
